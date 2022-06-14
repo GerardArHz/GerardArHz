@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img src="banner.png" title="hover text">
+</p>
 
-<!--
-**GerardArHz/GerardArHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+    Hi, My name is <strong>Gerardo</strong> 👋
+</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with **Python, Postgresql, Xml and Javascript**
+- 👯 I’m looking to collaborate on Front-end Proyect
+- 📫 How to reach me: @GerardArHz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gerardarhz&theme=algolia&hide_border=true&locale=es&background=FFFFFF&fire=006064&sideNums=006064&currStreakLabel=006064&dates=3A3A3A&currStreakNum=3A3A3A)](https://git.io/streak-stats)
