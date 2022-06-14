@@ -11,4 +11,4 @@
 - 📫 How to reach me: @GerardArHz
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gerardarhz&theme=algolia&hide_border=true&locale=es&background=FFFFFF&fire=006064&sideNums=006064&currStreakLabel=006064&dates=3A3A3A&currStreakNum=3A3A3A)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gerardarhz&theme=algolia&hide_border=true&background=FFFFFF&fire=006064&sideNums=006064&currStreakLabel=006064&dates=3A3A3A&currStreakNum=3A3A3A)](https://git.io/streak-stats)
